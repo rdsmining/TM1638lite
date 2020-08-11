@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/danja/TM1638lite)
+
 # TM1638lite
 Small(ish) interface library from Arduino to TM1638 display chip/card
 
